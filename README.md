@@ -16,3 +16,7 @@ Note: I don't own literotica.com, and I am not including their content with this
 * amazon aws for the server
 
 As a bonus feature, you can run `strfile` over the processed stories and have exciting `fortune`'s.  The delimiter is right for that and everything.
+
+##Oh, Also
+
+Special thanks fo [@snatiabir](https://twitter.com/snatiabir) for suggesting that particular unsupervised machine learning algorithm in the Natural Language Tool Kit.  It takes a special kind of friend to use her Ph.D. training on Christmas day to help me make a novelty twitter account.
