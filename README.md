@@ -4,7 +4,9 @@ Peter Swire - swirepe.com
 
 ##What is it?
 
-It's a [twitter bot](https://twitter.com/Between_Tweets) that posts random sentences from literotica.com.  How fun!
+*UPDATE*: This turned out to be far far _far_ more embarrassing than I thought it would be.  I am removing the link to it.
+
+It's a twitter bot that posts random sentences from literotica.com.  How fun!
 
 Note: I don't own literotica.com, and I am not including their content with this script.  You can either build it all up yourself, or break the password on that archive.
 
